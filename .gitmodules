@@ -1,0 +1,3 @@
+[submodule "GitProject/GitProject/Sources/ImageSource"]
+	path = GitProject/GitProject/Sources/ImageSource
+	url = https://github.com/liulei414518/ImageSource.git
