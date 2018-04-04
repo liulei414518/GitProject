@@ -13,7 +13,6 @@
 		8F33C2DF20749C5700172FBA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8F33C2DE20749C5700172FBA /* Assets.xcassets */; };
 		8F33C2E220749C5700172FBA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8F33C2E020749C5700172FBA /* LaunchScreen.storyboard */; };
 		8F33C2E520749C5700172FBA /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F33C2E420749C5700172FBA /* main.m */; };
-		8F33C2F62074AACC00172FBA /* Source.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8F33C2F52074AACC00172FBA /* Source.xcassets */; };
 		8F33C2FC2074AED100172FBA /* ImageSource in Resources */ = {isa = PBXBuildFile; fileRef = 8F33C2FB2074AED100172FBA /* ImageSource */; };
 /* End PBXBuildFile section */
 
@@ -28,7 +27,6 @@
 		8F33C2E120749C5700172FBA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8F33C2E320749C5700172FBA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8F33C2E420749C5700172FBA /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		8F33C2F52074AACC00172FBA /* Source.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Source.xcassets; sourceTree = "<group>"; };
 		8F33C2FB2074AED100172FBA /* ImageSource */ = {isa = PBXFileReference; lastKnownFileType = folder; path = ImageSource; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -80,7 +78,6 @@
 			isa = PBXGroup;
 			children = (
 				8F33C2FB2074AED100172FBA /* ImageSource */,
-				8F33C2F52074AACC00172FBA /* Source.xcassets */,
 			);
 			path = Sources;
 			sourceTree = "<group>";
@@ -147,7 +144,6 @@
 				8F33C2E220749C5700172FBA /* LaunchScreen.storyboard in Resources */,
 				8F33C2DF20749C5700172FBA /* Assets.xcassets in Resources */,
 				8F33C2DD20749C5700172FBA /* Main.storyboard in Resources */,
-				8F33C2F62074AACC00172FBA /* Source.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
